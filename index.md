@@ -25,32 +25,32 @@ medisinske kvalitetsregistre, metodeutvikling av automatisert måling av bio-oce
 
 ## Karriære
 
-`2010 - 2017`
+`2010 - 17`
 __Rådgiver, Senter for klinisk dokumentasjon og evaluering, Helse Nord RHF__
 
-`2007 - 2010`
+`2007 - 10`
 __Programvareutvikler, Helse Nord IKT__
 
-`2001 - 2007`
+`2001 - 07`
 __Postdoktor/forsker, prosjektfinansiert, Norges arktiske universitet (UiT)__
 
-`1992 - 1993`
+`1992 - 93`
 __Militærtjeneste, ulike steder i Norge__
 
 
 ## Utdanning
 
-`1998 - 2001`
+`1998 - 01`
 __Doctor scientiarum__: marin zoologi og oceanografi, avhandling: _Biophysical
 rates of zooplankton: A study of methods for measurements of zooplankton
 dynamics._ Norges arktiske universitet (UiT)
 
-`1996 - 1998`
+`1996 - 98`
 __Candidatus scientiarum__: økologisk modellering av vekst og spredning av
 dyreplankton, hovedfagsoppgave: _En analyse av forholdet mellom transport og
 produksjon_. Norges arktiske universitet (UiT)
 
-`1993 - 1996`
+`1993 - 96`
 __Candidatus magisterii__: generell biologi og akvakultur. Norges
 teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 (UiT)
