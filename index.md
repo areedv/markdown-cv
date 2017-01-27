@@ -81,9 +81,21 @@ teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 * Secure Shell
 
 
-## Vitenskapelige publikasjoner
+## Vitenskapelig erfaring
+
+### Publikasjoner
 
 Se i [Cristin](https://www.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=58017&la=no&action=sok)
+
+### Prosjektledelse
+
+### Prosjektdeltagelse
+
+### Undervisning
+
+### Feltarbeid
+
+Omlag 500 feltdøgn på ulike forskingsfartøy i Norskehavet og Barentshavet 
 
 ## Annet
 
@@ -98,6 +110,8 @@ Egne og andres barn, jobb, å løpe så langt og fort som mulig
 * Fotballtrener for Kroken Brage 2004 på 7. året
 
 ## Referanser
+
+Fås ved henvendelse
 <!-- ### Footer
 
 Last updated: Jan 2017 -->
