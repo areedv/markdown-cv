@@ -1,31 +1,67 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Are Edvardsen
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Are Edvardsen
+Dr. scient. marin zoologi, programvareutvikler og løpsentusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<i class="fa fa-envelope"></i> <a href="mailto:biorakel@gmail.com">biorakel@gmail.com</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/areedv">areedv</a>
 </div>
 
 
-## Currently
+## Nåværende jobb
 
-Standing on the shoulders of giants
+Rådgiver for [nasjonale medisinske kvalitetsregistre](https://www.kvalitetsregistre.no/) ved [Senter for klinisk
+dokumentasjon og evaluering (SKDE)](https://helse-nord.no/skde), Helse Nord RHF.
 
-### Specialized in
+## Spesialisert innen
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Metodeutvikling av automatisert måling av bio-oceanografiske data,
+databehandling og dynamisk presentasjon av resultater, utvikling av (nasjonale)
+medisinske kvalitetsregistre 
 
 
-## Education
+## Karriære
+
+`2010 - 2017`
+__Rådgiver, Senter for klinisk dokumentasjon og evaluering, Helse Nord RHF__
+
+`2007 - 2010`
+__Programvareutvikler, Helse Nord IKT__
+
+`2001 - 2007`
+__Postdoktor/forsker, prosjektfinansiert, Norges arktiske universitet (UiT)__
+
+`1992 - 1993`
+__Militærtjeneste, ulike steder i Norge__
+
+
+## Utdanning
+
+`1998 - 2001`
+__Doctor scientiarum__: marin zoologi og oceanografi, avhandling: _Biophysical
+rates of zooplankton: A study of methods for measurements of zooplankton
+dynamics._ Norges arktiske universitet (UiT)
+
+`1996 - 1998`
+__Candidatus scientiarum__: økologisk modellering av vekst og spredning av
+dyreplankton, hovedfagsoppgave: _En analyse av forholdet mellom transport og
+produksjon_. Norges arktiske universitet (UiT)
+
+`1993 - 1996`
+__Candidatus magisterii__: generell biologi og akvakultur. Norges
+teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
+(UiT)
+
+## Interesser
+
+Egne og andres barn, jobb, å løpe så langt og fort som mulig
+
+
+## Utdanning
 
 `1654-1660`
 __The King's School, Grantham.__
