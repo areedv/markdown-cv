@@ -89,8 +89,10 @@ Se i [Cristin](https://www.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&
 ### Prosjektledelse
 `2007 - `
 _Efficient, low-cost monitoring of Calanus_. Norwegian Research Council, project no.178102/S40.
+
 `2004 - 05`
 _Laser OPC on an Autonomous Underwater Vehicle_. Norwegian Research Council, project no.160644/V30.
+
 `2003 - 06`
 _Plankton Climatology in North Norwegian Waters - Concepts, mechanisms and monitoring_. Norwegian Research Council, project no. 153070/120.
 
@@ -99,23 +101,29 @@ _Plankton Climatology in North Norwegian Waters - Concepts, mechanisms and monit
 `2007 - 10`
 _Harvesting at lower trophic levels – stock assessment and ecological
 consequences_. Norwegian Research Council, project no. 178447
+
 `2002 - 06`
 _The importance of early marine feeding on growth and survival of salmon
 post-smolts in Norwegian fjords_. Norwegian Research Council, project no.
 149796/720.
+
 `2002 - 04`
 _Relationships between stochastic marine environment factors and production of
 sea run Arctic charr and brown trout_. Norwegian Research Council, project no.
 146854/S40.
+
 `2001 - 04`
 _Capelin and herring in the BArents SEa COexistence and EXclusion (BASECOEX)_.
 Norwegian Research Council, project no. 140290/140
+
 `2001 - 03`
 _Acoustic Identification System for Fish_. Norwegian Research Council, project
 no. 143544/431.
-`1998 - 00
+
+`1998 - 00`
 _Zooplankton production based on biomass spectrum theory_. Norwegian Research
 Council, project no. 121060/120.
+
 `1998 - 99`
 _Plankton advection in the Barents Sea_. Norwegian Research Council, project no.
 121379/122.
