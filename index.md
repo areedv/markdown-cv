@@ -141,7 +141,7 @@ Biveileder for til sammen tre PhD studenter
 
 ### Feltarbeid
 
-Omlag 500 feltdøgn på ulike forskingsfartøy i Norskehavet og Barentshavet 
+Omlag 500 feltdøgn på ulike forskningsfartøy i Norskehavet og Barentshavet 
 
 ## Annet
 
