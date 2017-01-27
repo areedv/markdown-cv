@@ -80,6 +80,11 @@ teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 * Git/Subversion
 * Secure Shell
 
+
+## Vitenskapelige publikasjoner
+
+Se i [Cristin](https://www.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=58017&la=no&action=sok)
+
 ## Annet
 
 ### Interesser
