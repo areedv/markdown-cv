@@ -72,7 +72,9 @@ teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 * LaTeX
 * markdown
 
-### Andre informasjonsteknologiske tema
+### Øvrig IKT
+* [Shiny](https://shiny.rstudio.com/)
+* [JasperReports](https://en.wikipedia.org/wiki/JasperReports)
 * [PKI](https://no.wikipedia.org/wiki/Public_key_infrastructure)
 * [PGP](https://no.wikipedia.org/wiki/Pretty_Good_Privacy)
 * Linux (Ubuntu, RedHat)
