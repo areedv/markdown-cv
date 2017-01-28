@@ -73,12 +73,14 @@ teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 * markdown
 
 ### Andre informasjonsteknologiske tema
-* PKI
+* [PKI](https://no.wikipedia.org/wiki/Public_key_infrastructure)
 * [PGP](https://no.wikipedia.org/wiki/Pretty_Good_Privacy)
-* Linux/UNIX
-* Git
-* Subversion
-* Secure Shell
+* Linux (Ubuntu, RedHat)
+* [Git](https://no.wikipedia.org/wiki/Git)
+* [Subversion](https://no.wikipedia.org/wiki/Subversion)
+* [Secure Shell](https://no.wikipedia.org/wiki/Secure_Shell)
+* [Confluence](https://en.wikipedia.org/wiki/Confluence_(software)
+* [Jira](https://en.wikipedia.org/wiki/Jira_(software)
 
 
 ## Vitenskapelig erfaring
