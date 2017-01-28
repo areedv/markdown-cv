@@ -79,8 +79,8 @@ teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 * [Git](https://no.wikipedia.org/wiki/Git)
 * [Subversion](https://no.wikipedia.org/wiki/Subversion)
 * [Secure Shell](https://no.wikipedia.org/wiki/Secure_Shell)
-* [Confluence](https://en.wikipedia.org/wiki/Confluence_(software)
-* [Jira](https://en.wikipedia.org/wiki/Jira_(software)
+* [Confluence](<https://en.wikipedia.org/wiki/Confluence_(software)>)
+* [Jira](<https://en.wikipedia.org/wiki/Jira_(software)>)
 
 
 ## Vitenskapelig erfaring
