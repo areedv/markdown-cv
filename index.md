@@ -26,16 +26,16 @@ medisinske kvalitetsregistre, metodeutvikling av automatisert måling av bio-oce
 ## Karriære
 
 `2010 - 17`
-__Rådgiver, Senter for klinisk dokumentasjon og evaluering, Helse Nord RHF__
+__Rådgiver__, Senter for klinisk dokumentasjon og evaluering, Helse Nord RHF
 
 `2007 - 10`
-__Programvareutvikler, Helse Nord IKT__
+__Programvareutvikler__, Helse Nord IKT
 
 `2001 - 07`
-__Postdoktor/forsker, prosjektfinansiert, Norges arktiske universitet (UiT)__
+__Postdoktor/forsker__, prosjektfinansiert, Norges arktiske universitet (UiT)
 
 `1992 - 93`
-__Militærtjeneste, ulike steder i Norge__
+__Militærtjeneste__, ulike steder i Norge
 
 
 ## Utdanning
@@ -74,9 +74,10 @@ teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 
 ### Andre informasjonsteknologiske tema
 * PKI
-* PGP
+* [PGP](https://no.wikipedia.org/wiki/Pretty_Good_Privacy)
 * Linux/UNIX
-* Git/Subversion
+* Git
+* Subversion
 * Secure Shell
 
 
@@ -85,6 +86,33 @@ teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 ### Publikasjoner
 
 Se i [Cristin](https://www.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=58017&la=no&action=sok)
+
+### Annet
+Prosjektleder og deltager i en rekke forskningsprosjetker, i hovedsak finansiert av Norges
+forskningsråd. Undervisning i flere kurs opp til doktorgradsnivå og biveiledning av tre
+doktorgradsstudenter. Betydelig felterfaring fra Barentshavet og Norskehavet. En detaljert oversikt
+kan gis på forespørsel.
+
+## Om meg
+
+### Interesser
+
+Egne og andres barn, jobb, å løpe så langt og fort som mulig
+
+### Verv
+
+Styremedlem Sjøfarten AS og Tromsø løpeklubb, meddommer i Nord-Troms tingrett,
+fotballtrener for Kroken Brage 2004 på 7. året
+
+## Referanser
+
+Gis på forespørsel
+
+<!-- ### Footer
+
+Last updated: Jan 2017 -->
+
+<!-- Content not shown
 
 ### Prosjektledelse
 `2007 - `
@@ -143,23 +171,5 @@ Biveileder for til sammen tre PhD studenter
 
 Omlag 500 feltdøgn på ulike forskningsfartøy i Norskehavet og Barentshavet 
 
-## Annet
-
-### Interesser
-
-Egne og andres barn, jobb, å løpe så langt og fort som mulig
-
-### Verv
-
-* Styremedlem Sjøfarten AS og Tromsø løpeklubb, meddommer i Nord-Troms tingrett,
-fotballtrener for Kroken Brage 2004 på 7. året
-
-## Referanser
-
-Gis på forespørsel
-
-<!-- ### Footer
-
-Last updated: Jan 2017 -->
-
+-->
 
