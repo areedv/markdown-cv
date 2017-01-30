@@ -73,6 +73,7 @@ teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 * markdown
 
 ### Øvrig IKT
+* [RStudio](https://en.wikipedia.org/wiki/RStudio)
 * [Shiny](https://shiny.rstudio.com/)
 * [JasperReports](https://en.wikipedia.org/wiki/JasperReports)
 * [PKI](https://no.wikipedia.org/wiki/Public_key_infrastructure)
