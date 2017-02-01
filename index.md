@@ -71,6 +71,7 @@ teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 * html
 * LaTeX
 * markdown
+* DocBook
 
 ### Øvrig IKT
 * [RStudio](https://en.wikipedia.org/wiki/RStudio)
