@@ -3,7 +3,7 @@ layout: cv
 title: Are Edvardsen
 ---
 # Are Edvardsen
-Dr. scient. marin zoologi, programvareutvikler og løpsentusiast.
+Dr. scient. marin zoologi, rådgiver og programvareutvikler.
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:biorakel@gmail.com">biorakel@gmail.com</a>
@@ -14,8 +14,10 @@ Dr. scient. marin zoologi, programvareutvikler og løpsentusiast.
 
 ## Nåværende jobb
 
-Rådgiver for [nasjonale medisinske kvalitetsregistre](https://www.kvalitetsregistre.no/) ved [Senter for klinisk
-dokumentasjon og evaluering (SKDE)](https://helse-nord.no/skde), Helse Nord RHF.
+Rådgiver for
+[nasjonale medisinske kvalitetsregistre](https://www.kvalitetsregistre.no/) ved
+[Senter for klinisk dokumentasjon og evaluering (SKDE)](https://helse-nord.no/skde),
+Helse Nord RHF.
 
 ## Spesialisert innen
 
