@@ -20,12 +20,13 @@ dokumentasjon og evaluering (SKDE)](https://helse-nord.no/skde), Helse Nord RHF.
 ## Spesialisert innen
 
 Databehandling og dynamisk presentasjon av resultater, utvikling av (nasjonale)
-medisinske kvalitetsregistre, metodeutvikling av automatisert måling av bio-oceanografiske data
+medisinske kvalitetsregistre, metodeutvikling av automatisert måling av
+bio-oseanografiske data
 
 
-## Karriære
+## Jobber
 
-`2010 - 17`
+`2010 -   `
 __Rådgiver__, Senter for klinisk dokumentasjon og evaluering, Helse Nord RHF
 
 `2007 - 10`
@@ -41,7 +42,7 @@ __Militærtjeneste__, ulike steder i Norge
 ## Utdanning
 
 `1998 - 01`
-__Doctor scientiarum__: marin zoologi og oceanografi, avhandling: _Biophysical
+__Doctor scientiarum__: marin zoologi og oseanografi, avhandling: _Biophysical
 rates of zooplankton: A study of methods for measurements of zooplankton
 dynamics._ Norges arktiske universitet (UiT)
 
