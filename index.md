@@ -76,15 +76,14 @@ teknisk-naturvitenskapelige universitet (NTNU) / Norges arktiske universitet
 * markdown
 * DocBook
 
-### Øvrig IKT
+### Øvrig teknologi
 * [RStudio](https://en.wikipedia.org/wiki/RStudio)
 * [Shiny](https://shiny.rstudio.com/)
-* [JasperReports](https://en.wikipedia.org/wiki/JasperReports)
+* [Docker](<https://en.wikipedia.org/wiki/Docker_(software)>)
 * [PKI](https://no.wikipedia.org/wiki/Public_key_infrastructure)
 * [PGP](https://no.wikipedia.org/wiki/Pretty_Good_Privacy)
 * Linux (Ubuntu, RedHat)
 * [Git](https://no.wikipedia.org/wiki/Git)
-* [Subversion](https://no.wikipedia.org/wiki/Subversion)
 * [Secure Shell](https://no.wikipedia.org/wiki/Secure_Shell)
 * [Confluence](<https://en.wikipedia.org/wiki/Confluence_(software)>)
 * [Jira](<https://en.wikipedia.org/wiki/Jira_(software)>)
@@ -107,11 +106,6 @@ kan gis på forespørsel.
 ### Interesser
 
 Egne og andres barn, jobb, å løpe så langt og fort som mulig
-
-### Verv
-
-Styremedlem Sjøfarten AS og Tromsø løpeklubb, meddommer i Nord-Troms tingrett,
-fotballtrener for Kroken Brage 2004 på 7. året
 
 ## Referanser
 
