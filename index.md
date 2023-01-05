@@ -3,7 +3,7 @@ layout: cv
 title: Are Edvardsen
 ---
 # Are Edvardsen
-Dr. scient. marin zoologi, rådgiver og programvareutvikler.
+Dr. scient. marin zoologi, rådgiver, programvareutvikler.
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:biorakel@gmail.com">biorakel@gmail.com</a>
