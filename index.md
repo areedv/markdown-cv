@@ -14,10 +14,9 @@ Dr. scient. marin zoologi, rådgiver, programvareutvikler.
 
 ## Nåværende jobb
 
-Rådgiver for
-[nasjonale medisinske kvalitetsregistre](https://www.kvalitetsregistre.no/) ved
-[Senter for klinisk dokumentasjon og evaluering (SKDE)](https://helse-nord.no/skde),
-Helse Nord RHF.
+Engasjert som seniorrådgiver ved [Avdeling for Tjenesteutvikling](https://helsenordikt.no/avdelinger/avdeling-for-tjenesteutvikling)
+hos [Helse Nord IKT](https://helsenordikt.no/)
+
 
 ## Spesialisert innen
 
@@ -28,7 +27,10 @@ bio-oseanografiske data
 
 ## Jobber
 
-`2010 -   `
+`2023 - 23`
+__Seniorrådgiver__, Innovasjonsledelse, Helse Nord IKT (engasjement)
+
+`2010 - 23`
 __Rådgiver__, Senter for klinisk dokumentasjon og evaluering, Helse Nord RHF
 
 `2007 - 10`
