@@ -14,7 +14,7 @@ Dr. scient. marin zoologi, rådgiver, programvareutvikler.
 
 ## Nåværende jobb
 
-Engasjert som seniorrådgiver ved [Avdeling for Tjenesteutvikling](https://helsenordikt.no/avdelinger/avdeling-for-tjenesteutvikling)
+Seniorrådgiver ved [Avdeling for Tjenesteutvikling](https://helsenordikt.no/avdelinger/avdeling-for-tjenesteutvikling)
 hos [Helse Nord IKT HF](https://helsenordikt.no/)
 
 
@@ -28,7 +28,7 @@ bio-oseanografiske data
 ## Jobber
 
 `2023 - 24`
-__Seniorrådgiver__, Innovasjonsledelse, Helse Nord IKT (engasjement)
+__Seniorrådgiver__, Innovasjonsledelse, Helse Nord IKT
 
 `2010 - 23`
 __Rådgiver__, Senter for klinisk dokumentasjon og evaluering, Helse Nord RHF
